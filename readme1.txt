@@ -9,3 +9,4 @@ cout<<"one thing";
 cout<<"The devil in kalyug";
 
 cout<<"c++ here";
+okay
